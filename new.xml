@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Person>
+	<Name>Karina</Name>
+        <Age>33</Age>
+	<Pets>
+		<Pet>
+			<Name>Michel</Name>
+			<Age>6</Age>
+		</Pet>
+	</Pets>
+
+</Person>
